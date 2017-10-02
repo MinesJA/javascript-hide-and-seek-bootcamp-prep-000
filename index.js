@@ -69,5 +69,4 @@ return grandNode;
 //  console.log(grandNode);
   //return document.getElementById('#grand-node').querySelectorAll('div')[grandNode.length]
 
-}
-}
+
