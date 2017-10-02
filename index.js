@@ -53,7 +53,7 @@ for (let i = 0; i < lis.length; i++) {
 }
 */
 
-const grandNode = document.getElementById('app').querySelectorAll('#grand-node div')
+const grandNode = document.getElementById('grand-node').querySelectorAll('div')
 
 console.log(grandNode);
 debugger;
