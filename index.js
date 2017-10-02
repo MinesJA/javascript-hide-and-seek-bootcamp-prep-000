@@ -53,16 +53,20 @@ for (let i = 0; i < lis.length; i++) {
 }
 */
 
-var grandNode = document.getElementById('grand-node').querySelectorAll('div')
+var grandNode = document.getElementById('grand-node').querySelector('div div div div div')
 
+return grandNode;
+
+/*
   for (let i = 0; i < grandNode.length; i++) {
     if (grandNode[i] === grandNode.length){
       return grandNode[1];
     }
+    */
 
+  }
 //  var grandNode = document.querySelectorAll('#grand-node')
 //  console.log(grandNode);
   //return document.getElementById('#grand-node').querySelectorAll('div')[grandNode.length]
 
-}
 }
