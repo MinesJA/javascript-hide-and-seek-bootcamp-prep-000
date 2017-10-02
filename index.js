@@ -56,6 +56,7 @@ console.log(grandNode);
   for (let i = 0; i < grandNode.length; i++) {
     if (grandNode[i].innerHTML === "boo!"){
       return grandNode[i]
+      debugger;
     }
 
     }
