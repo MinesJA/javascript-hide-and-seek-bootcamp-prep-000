@@ -52,11 +52,11 @@ for (let i = 0; i < lis.length; i++) {
 const grandNode = document.getElementById('app').querySelectorAll('#grand-node div')
 
 console.log(grandNode);
+debugger;
 
   for (let i = 0; i < grandNode.length; i++) {
     if (grandNode[i].innerHTML === "boo!"){
       return grandNode[i]
-      debugger;
     }
 
     }
