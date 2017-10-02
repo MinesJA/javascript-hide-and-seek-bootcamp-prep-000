@@ -68,5 +68,3 @@ return grandNode;
 //  var grandNode = document.querySelectorAll('#grand-node')
 //  console.log(grandNode);
   //return document.getElementById('#grand-node').querySelectorAll('div')[grandNode.length]
-
-
